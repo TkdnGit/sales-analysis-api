@@ -1,0 +1,7 @@
+order_id,order_date,customer,product,quantity,unit_price
+1001,2026-10-01, Rahim ,Laptop,2,500
+1002,02/10/2026,Karim,Mouse,5,15
+1002,02/10/2026,Karim,Mouse,5,15
+1003,2026-10-03,,Keyboard,3,30
+1004,2026-10-04,Sadia,Monitor,2,200
+1005,2026-10-05,Rahim,Laptop,1,500
